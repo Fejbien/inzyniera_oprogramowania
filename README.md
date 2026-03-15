@@ -1,4 +1,4 @@
-# inzyniera_oprogramowania
+# kroknik
 
 ## Poradnik
 Pobierz i zainstaluj: https://docs.flutter.dev/install/quick

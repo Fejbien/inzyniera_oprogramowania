@@ -1,6 +1,6 @@
 {
-    "name": "inzyniera_oprogramowania",
-    "short_name": "inzyniera_oprogramowania",
+    "name": "kroknik",
+    "short_name": "kroknik",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -1,4 +1,4 @@
-package com.example.inzyniera_oprogramowania
+package com.example.kroknik
 
 import io.flutter.embedding.android.FlutterActivity
 
