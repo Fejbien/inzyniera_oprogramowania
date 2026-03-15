@@ -1,16 +1,23 @@
 # inzyniera_oprogramowania
 
-A new Flutter project.
+## Poradnik
+Pobierz i zainstaluj: https://docs.flutter.dev/install/quick
 
-## Getting Started
+wejsc do tego folderu w konsoli
+wpisz 'flutter pub get' a pozniej mozesz 'flutter run' i na uzarzeniu glowny sie odapli albo na emulatorze jak macie wlaczony
 
-This project is a starting point for a Flutter application.
+## Plan i guess
+- Konto google jako konto uzytkownika
+- Zapis danych ilosc krokow (co godzine i guess) do bazy danych (osobny folder supabase w projekcie opisana bedezie)
+- Mozliwosc storzenia grupy
+- jedna osoba moze byc w wielu grupach
+- Zapraszanie do grupy przez link
+- mozliwosc zobaczenia danych osoby z danej grupy
+- leaderbor grupy
+- cele na miesiac czy tamtydzien jeden chuj
 
-A few resources to get you started if this is your first Flutter project:
+takie podstawowe te wyzej i guess
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+i teraz te dodatkowe co on chcial i guess
+- mozliwosc stworzenia wyzywania co w czasie realny bedzie laczylo 2 osoby i kto wiecej przejdzie do zatrzymania czy cos ale sie pomysli jak sie te podstawowe skonczy
+  
