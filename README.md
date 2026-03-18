@@ -19,5 +19,4 @@ wpisz 'flutter pub get' a pozniej mozesz 'flutter run' i na uzarzeniu glowny sie
 takie podstawowe te wyzej i guess
 
 i teraz te dodatkowe co on chcial i guess
-- mozliwosc stworzenia wyzywania co w czasie realny bedzie laczylo 2 osoby i kto wiecej przejdzie do zatrzymania czy cos ale sie pomysli jak sie te podstawowe skonczy
-  
+- mozliwosc stworzenia wyzywania co w czasie realny bedzie laczylo 2 osoby i kto wiecej przejdzie szybciej dany ustalony dtystanc (oczywiscie bedzie monz abegac)
